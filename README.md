@@ -34,3 +34,15 @@ I will continuously update this repository as I solve more LeetCode problems.
 
 LeetCode Profile:https://leetcode.com/u/shivsahu6400/
 GitHub:https://github.com/shivsahu-commits
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
+<!---LeetCode Topics End-->
