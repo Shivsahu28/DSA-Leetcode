@@ -51,4 +51,12 @@ GitHub:https://github.com/shivsahu-commits
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0875-koko-eating-bananas](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
