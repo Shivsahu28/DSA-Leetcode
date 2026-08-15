@@ -6,11 +6,11 @@ public:
         for(int i=0;i<n;i++){
            char ch=s[i];
             if(tolower(ch)>='0'&&tolower(ch)<='9' ||tolower(ch)>='a'&&tolower(ch)<='z'){
-             res.push_back(tolower(ch));
+             res.push_back(tolower(ch));// to check the num is alphanum or not , if it is then pushback value in res.
             }
         }
             int st=0;
-            int end=res.size()-1;
+            int end=res.size()-1;//define kro new res ka size-1.
 
             while(st<=end){
                 if(res[st]==res[end]){
