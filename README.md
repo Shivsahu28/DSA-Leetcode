@@ -60,5 +60,14 @@ GitHub:https://github.com/shivsahu-commits
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
