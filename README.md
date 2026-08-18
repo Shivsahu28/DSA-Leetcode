@@ -59,6 +59,7 @@ GitHub:https://github.com/shivsahu-commits
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0242-valid-anagram) |
@@ -67,6 +68,7 @@ GitHub:https://github.com/shivsahu-commits
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
@@ -81,6 +83,10 @@ GitHub:https://github.com/shivsahu-commits
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
 # My DSA Journey
 
