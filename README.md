@@ -82,3 +82,18 @@ GitHub:https://github.com/shivsahu-commits
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
+# My DSA Journey
+
+## Progress
+
+- Arrays
+- Strings
+- Linked List
+
+## Today's Learning
+
+### LeetCode 13 — Roman to Integer
+
+- Practiced string traversal
+- Learned current vs next value comparison
+- Language: C++
