@@ -65,6 +65,7 @@ GitHub:https://github.com/shivsahu-commits
 | [0205-isomorphic-strings](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ GitHub:https://github.com/shivsahu-commits
 | [0013-roman-to-integer](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
@@ -84,6 +86,7 @@ GitHub:https://github.com/shivsahu-commits
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
