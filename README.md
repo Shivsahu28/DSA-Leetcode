@@ -40,6 +40,7 @@ GitHub:https://github.com/shivsahu-commits
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0217-contains-duplicate) |
@@ -71,6 +72,7 @@ GitHub:https://github.com/shivsahu-commits
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0217-contains-duplicate) |
