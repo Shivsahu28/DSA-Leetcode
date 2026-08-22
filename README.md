@@ -44,6 +44,7 @@ GitHub:https://github.com/shivsahu-commits
 | [0033-search-in-rotated-sorted-array](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
@@ -51,6 +52,7 @@ GitHub:https://github.com/shivsahu-commits
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Two Pointers
@@ -58,6 +60,7 @@ GitHub:https://github.com/shivsahu-commits
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -77,6 +80,7 @@ GitHub:https://github.com/shivsahu-commits
 | [0205-isomorphic-strings](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
@@ -84,6 +88,7 @@ GitHub:https://github.com/shivsahu-commits
 | ------- |
 | [0217-contains-duplicate](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Queue
 |  |
 | ------- |
