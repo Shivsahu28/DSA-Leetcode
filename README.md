@@ -109,10 +109,15 @@ GitHub:https://github.com/shivsahu-commits
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0013-roman-to-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
 # My DSA Journey
 
