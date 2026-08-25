@@ -117,6 +117,7 @@ GitHub:https://github.com/shivsahu-commits
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
 # My DSA Journey
