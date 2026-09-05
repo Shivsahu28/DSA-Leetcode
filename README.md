@@ -61,6 +61,7 @@ GitHub:https://github.com/shivsahu-commits
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0344-reverse-string) |
@@ -120,6 +121,7 @@ GitHub:https://github.com/shivsahu-commits
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0203-remove-linked-list-elements) |
