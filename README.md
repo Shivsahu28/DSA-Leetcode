@@ -130,6 +130,7 @@ GitHub:https://github.com/shivsahu-commits
 | [0203-remove-linked-list-elements](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -142,6 +143,10 @@ GitHub:https://github.com/shivsahu-commits
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
 # My DSA Journey
 
