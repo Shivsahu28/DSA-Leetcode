@@ -152,11 +152,13 @@ GitHub:https://github.com/shivsahu-commits
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
