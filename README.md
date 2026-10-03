@@ -43,6 +43,7 @@ GitHub:https://github.com/shivsahu-commits
 | [0001-two-sum](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -120,6 +121,7 @@ GitHub:https://github.com/shivsahu-commits
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Sliding Window
 |  |
@@ -158,6 +160,7 @@ GitHub:https://github.com/shivsahu-commits
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
