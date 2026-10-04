@@ -50,6 +50,7 @@ GitHub:https://github.com/shivsahu-commits
 | [0283-move-zeroes](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0875-koko-eating-bananas](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
@@ -101,6 +102,7 @@ GitHub:https://github.com/shivsahu-commits
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -162,10 +164,15 @@ GitHub:https://github.com/shivsahu-commits
 | [0020-valid-parentheses](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
 # My DSA Journey
 
