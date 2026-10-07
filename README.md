@@ -55,6 +55,7 @@ GitHub:https://github.com/shivsahu-commits
 | [0739-daily-temperatures](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@ GitHub:https://github.com/shivsahu-commits
 | [0496-next-greater-element-i](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -179,6 +181,7 @@ GitHub:https://github.com/shivsahu-commits
 | [0496-next-greater-element-i](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
 # My DSA Journey
 
