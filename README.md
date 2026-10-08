@@ -161,6 +161,7 @@ GitHub:https://github.com/shivsahu-commits
 | ------- |
 | [0155-min-stack](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0901-online-stock-span) |
 ## Stack
 |  |
 | ------- |
@@ -170,6 +171,7 @@ GitHub:https://github.com/shivsahu-commits
 | [0496-next-greater-element-i](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
@@ -181,7 +183,12 @@ GitHub:https://github.com/shivsahu-commits
 | [0496-next-greater-element-i](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
 # My DSA Journey
 
