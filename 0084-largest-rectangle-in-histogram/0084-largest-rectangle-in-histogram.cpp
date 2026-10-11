@@ -1,0 +1,46 @@
+class Solution {
+public:
+    int largestRectangleArea(vector<int>& heights) {
+         // calculating right smaller element.
+         int n=heights.size();
+        vector<int>right(n);
+        stack<int>st;
+        for(int i=n-1;i>=0;i--){
+            while(st.size()>0 && heights[i]<=heights[st.top()]){
+                st.pop();
+            }
+            if(st.empty()){
+                right[i]= n;
+            }
+            else{
+                right[i]=st.top();
+            }
+            st.push(i);
+        }//  clearing the stack before cal left element.
+        while(st.size()>0){
+            st.pop();
+        }
+        // calculating left smaller element.
+         vector<int>left(n);
+        for(int i=0;i<n;i++){
+            while(st.size()>0 && heights[i]<=heights[st.top()]){
+                st.pop();
+            }
+            if(st.empty()){
+                left[i]= -1;
+            }
+            else{
+                left[i]=st.top();
+            }
+            st.push(i);
+        }
+        //calculate maxx area.
+       int ans=0;
+       for(int i=0;i<n;i++){
+        int width=right[i]-left[i]-1;
+        int currArea=heights[i]*width;
+        ans=max(ans,currArea);
+       }
+       return ans;
+    }
+};
