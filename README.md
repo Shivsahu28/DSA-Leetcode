@@ -118,6 +118,7 @@ GitHub:https://github.com/shivsahu-commits
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -163,6 +164,7 @@ GitHub:https://github.com/shivsahu-commits
 | [0155-min-stack](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Stack
 |  |
 | ------- |
@@ -192,6 +194,7 @@ GitHub:https://github.com/shivsahu-commits
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
