@@ -118,6 +118,7 @@ GitHub:https://github.com/shivsahu-commits
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Counting
@@ -164,6 +165,7 @@ GitHub:https://github.com/shivsahu-commits
 | ------- |
 | [0155-min-stack](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0933-number-of-recent-calls) |
@@ -175,6 +177,7 @@ GitHub:https://github.com/shivsahu-commits
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shivsahu-commits/DSA-Leetcode/tree/master/0739-daily-temperatures) |
